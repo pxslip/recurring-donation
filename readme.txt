@@ -1,18 +1,33 @@
-=== Recurring Donation ===
+=== Recurring Donations ===
 Contributors: wpecommerce 
 Donate link: https://wp-ecommerce.net/
-Tags: button, donate, donation, payment, paypal, paypal donation, shortcode, sidebar, widget
+Tags: button, donate, donation, donations, payment, paypal, paypal donation, shortcode, sidebar, widget, recurring, subscription, monthly, re-occuring
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Accept recurring donations in WordPress.
+Accept recurring donation payment from your WordPress site.
 
 == Description ==
 
-Recurring Donation plugin helps you get donations via PayPal. It has a user-friendly and simple interface which allows you to place a donate button anywhere on the site.
+The Recurring Donations plugin allows you to accept recurring donations via PayPal from your website. 
+
+It has a user-friendly and simple shortcode that lets you to place a donate button anywhere on your WordPress site.
+
+The recurring donations widget this plugin creates is nice looking and user-friendly.
+
+Your users will be able to select a subscription or recurring donation amount and pay you monthly.
+
+This plugin allows you to accept one time donations also. So if some users prefer to pay a once-off donation, they can click on the "Donate Once" tab and make a one-time donation payment.
+
+* Quick installation and setup.
+* Easily take recurring donations via PayPal.
+* The ultimate plugin to create PayPal recurring donations buttons.
+* Create the donations buttons on the fly and embed them anywhere on your site using a shortcode.
+* Ability to add multiple recurring donations widget on your site for different causes.
+* Allow your users to specify a donation amount that they wish to pay. 
 
 The setup is very simple and easy. Once you have installed the plugin, all you need to do is enter your PayPal Email address in the plugin settings and your site will be ready to accept recurring donations from users.
 
@@ -33,12 +48,6 @@ In order to place a widget on the sidebar, go to "Appearance -> Widgets" and add
 After adding the widget to the sidebar, you can enter a title for the widget and some descriptive text that will appear above the button. You can also customize the shortcode parameters to override the default options.
 
 For details instructions please check the [Recurring Donation Plugin](https://wp-ecommerce.net/wordpress-recurring-donation-plugin) documentation page.
-
-= Translation =
-
-The plugin has been translated into the following language:
-
-* Russian (ru_RU)
 
 == Installation ==
 

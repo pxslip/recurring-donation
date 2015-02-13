@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Recurring Donation
+Plugin Name: Recurring Donations
 Plugin URI: https://wp-ecommerce.net/ 
-Description: Plugin for making donations via shortcode
+Description: Plugin for accepting recurring donations via shortcode
 Author: wpecommerce
 Version: 1.0
 Author URI: https://wp-ecommerce.net/
