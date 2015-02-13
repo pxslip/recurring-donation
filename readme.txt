@@ -47,7 +47,7 @@ In order to place a widget on the sidebar, go to "Appearance -> Widgets" and add
 
 After adding the widget to the sidebar, you can enter a title for the widget and some descriptive text that will appear above the button. You can also customize the shortcode parameters to override the default options.
 
-For details instructions please check the [Recurring Donation Plugin](https://wp-ecommerce.net/wordpress-recurring-donation-plugin) documentation page.
+For detailed instructions please check the [Recurring Donation Plugin](https://wp-ecommerce.net/wordpress-recurring-donation-plugin) documentation page.
 
 == Installation ==
 
